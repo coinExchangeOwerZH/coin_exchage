@@ -42,4 +42,8 @@ coin_exchage
 ### _主要技术_
   dubbo，springboot，mybatisplus，rabbitMq，redis，zookeeper，分布式锁，分布式事物，vue
   源码后续更新，感谢关注。
+  
+### _联系方式_
+QQ：549930434
+邮箱：coinExchangeOwerZH@protonmail.com
 
