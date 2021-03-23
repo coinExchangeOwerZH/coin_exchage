@@ -44,6 +44,6 @@ coin_exchage
   源码后续更新，感谢关注。
   
 ### _联系方式_
-QQ：549930434
-邮箱：coinExchangeOwerZH@protonmail.com
+- QQ：549930434
+- 邮箱：coinExchangeOwerZH@protonmail.com
 
